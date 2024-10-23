@@ -42,4 +42,20 @@ I recommend putting hot glue over the LEDs / mask area on the minibadges for bet
 - The eeprom is not used.
 - R1, R2, R3, R5: 68 ohm (0603)
 - D1, D2, D3, D14, D15, D16: These are either be red or yellow LEDs (0603). They are marked with respective color
-- D4, D5, D6, D7, D8, D9, D10, D11, D12, D13: These are either red or yellow LEDs (0201). You can't see the polarity markings on these. The marking (cathode) is on the left side of all of them. 
+- D4, D5, D6, D7, D8, D9, D10, D11, D12, D13: These are either red or yellow LEDs (0201). You can't see the polarity markings on these. The marking (cathode) is on the left side of all of them.
+- Pin 1 is marked for CD4017.
+
+## Tombstone Minibadge
+
+- R1, R2, R3, R4: 68 ohm (1206)
+- D1, D2, D3, D4: yellow-green LEDs (1206)
+
+## Tree Minibadge
+
+- The eeprom is not used. 
+- R1, R2: 68 ohm resistors (1206)
+- D1, D2: Yellow LEDs (1206), marked yellow. The cathode mark on some of the LEDs is hard to see. It is on the left side for all of them. 
+- D3, D4: Green LEDs (1206), marked green.  The cathode mark on some of the LEDs is hard to see. It is on the left side for all of them. 
+
+
+  
