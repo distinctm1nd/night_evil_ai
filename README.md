@@ -23,4 +23,16 @@ I recommend putting hot glue over the LEDs / mask area on the minibadges for bet
   - D1, D2, D4: UV LEDs (1206), unmarked.
   - Select either blink or normal.
  
-  
+  ## Left Eye Minibadge
+
+  - R1, R2, R3, R4: 68 ohms (1206), marked yellow
+  - D1, D3, D4: Yellow LEDs (1206), marked yellow
+  - D2: Green LED (1206), marked green
+
+## Right Bottom Eye Minibadge
+
+- R1, R3: 68 ohm (1206)
+- D1, D3: Blue LEDs (1206), marked blue. Note that the marking for D3 is slightly above it. D3 is under D1. The cathode mark for D1 and D3 are hard to see. They are both on the left side. 
+- D2, D4: Green LEDs (1206), marked green. The cathode mark for D2 and D4 is hard to see. They are both on the left side.
+
+- 
