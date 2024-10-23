@@ -42,4 +42,4 @@ I recommend putting hot glue over the LEDs / mask area on the minibadges for bet
 - The eeprom is not used.
 - R1, R2, R3, R5: 68 ohm (0603)
 - D1, D2, D3, D14, D15, D16: These are either be red or yellow LEDs (0603). They are marked with respective color
-- D4, D5, D6, D7, D8, D9, D10, D11, D12, D13: These are either red or yellow LEDs (0201). 
+- D4, D5, D6, D7, D8, D9, D10, D11, D12, D13: These are either red or yellow LEDs (0201). You can't see the polarity markings on these. The marking (cathode) is on the left side of all of them. 
